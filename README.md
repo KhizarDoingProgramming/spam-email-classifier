@@ -4,17 +4,17 @@ A simple and effective spam detection tool for Linux. It uses Machine Learning (
 
 ## 🚀 Features
 - 🤖 Uses AI to detect spam.
-- 🐧 Native Linux pop-up windows.
+- 🐧 Native Linux pop-up windows (Zenity).
 - 📥 Downloads dataset automatically.
 - ⚡ Fast and easy to use.
 
 ## 🛠️ How to Setup
 1. **Clone the project:**
    ```bash
-   git clone git@github.com:KhizardoingProgramming/spam-email-classifier.git
+   git clone git@github.com:KhizarDoingProgramming/spam-email-classifier.git
    cd "spam email classifier"
    ```
-2. **Install what's needed:**
+2. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
    ```
@@ -26,4 +26,4 @@ python spam_classifier.py
 ```
 
 ---
-*By [KhizardoingProgramming](https://github.com/KhizardoingProgramming)*
+*By [KhizarDoingProgramming](https://github.com/KhizarDoingProgramming)*
